@@ -23,5 +23,6 @@ Code Structure:
 Default username and password is admin
 
 Change this section, especially the "usrnm" and "passw" sections, if you want to change the password.
+```bash
 if(strcmp(usrnm,"admin")==0 && strcmp(pass,"admin")==0) return 1;
     else return 0;
