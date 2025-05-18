@@ -1,6 +1,6 @@
-Hotel Management Project
+## Hotel Management Project
 
-Description:
+
 This project is a simple hotel management application written in C. The application allows users to manage room reservations, including guest lists, guest data creation, and invoice printing.
 
 Key Features:
